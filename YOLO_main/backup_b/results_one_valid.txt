@@ -1,0 +1,3334 @@
+ CUDNN_HALF=1 
+net.optimized_memory = 0 
+mini_batch = 1, batch = 8, time_steps = 1, train = 0 
+Create CUDA-stream - 0 
+ Create cudnn-handle 0 
+nms_kind: greedynms (1), beta = 0.600000 
+nms_kind: greedynms (1), beta = 0.600000 
+
+ seen 64, trained: 144 K-images (2 Kilo-batches_64) 
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_191327.JPG: Predicted in 5.938000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_183910.JPG: Predicted in 3.172000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_123853.JPG: Predicted in 3.234000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_162548.JPG: Predicted in 3.167000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_192648.JPG: Predicted in 3.156000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_132544.JPG: Predicted in 3.202000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_102721.JPG: Predicted in 3.141000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_202610.JPG: Predicted in 3.162000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_193854.JPG: Predicted in 3.201000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_194950.JPG: Predicted in 3.159000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_160108.JPG: Predicted in 3.147000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_094954.JPG: Predicted in 3.147000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_163744.JPG: Predicted in 3.163000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_183714.JPG: Predicted in 3.159000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_073703.JPG: Predicted in 3.137000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_144020.JPG: Predicted in 3.367000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_082749.JPG: Predicted in 3.151000 milli-seconds.
+fish: 61%
+fish: 44%
+fish: 27%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_100157.JPG: Predicted in 3.190000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_115013.JPG: Predicted in 3.233000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_110108.JPG: Predicted in 3.207000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_083720.JPG: Predicted in 3.220000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_180102.JPG: Predicted in 3.340000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_191308.JPG: Predicted in 3.255000 milli-seconds.
+fish: 36%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_150157.JPG: Predicted in 3.157000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_153904.JPG: Predicted in 3.442000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_154929.JPG: Predicted in 3.188000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_190201.JPG: Predicted in 3.119000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_112538.JPG: Predicted in 3.217000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_101344.JPG: Predicted in 3.159000 milli-seconds.
+fish: 38%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_155015.JPG: Predicted in 3.146000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_135148.JPG: Predicted in 3.170000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_102747.JPG: Predicted in 3.182000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_082720.JPG: Predicted in 3.198000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_192734.JPG: Predicted in 3.163000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_125133.JPG: Predicted in 3.171000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_074903.JPG: Predicted in 3.191000 milli-seconds.
+fish: 41%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_130114.JPG: Predicted in 3.153000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_130130.JPG: Predicted in 3.284000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_112744.JPG: Predicted in 3.171000 milli-seconds.
+fish: 40%
+fish: 28%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_153930.JPG: Predicted in 3.122000 milli-seconds.
+fish: 52%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_160125.JPG: Predicted in 3.142000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_064952.JPG: Predicted in 3.153000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_130403.JPG: Predicted in 3.183000 milli-seconds.
+fish: 62%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_112800.JPG: Predicted in 3.135000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_130113.JPG: Predicted in 3.144000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_151339.JPG: Predicted in 3.164000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_201540.JPG: Predicted in 3.180000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_154940.JPG: Predicted in 3.169000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_105142.JPG: Predicted in 3.176000 milli-seconds.
+fish: 43%
+fish: 27%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_134909.JPG: Predicted in 3.217000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_191457.JPG: Predicted in 3.296000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_110103.JPG: Predicted in 3.226000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_170353.JPG: Predicted in 3.158000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_094908.JPG: Predicted in 3.223000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_130119.JPG: Predicted in 3.264000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_130303.JPG: Predicted in 3.144000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_065109.JPG: Predicted in 3.173000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_142533.JPG: Predicted in 3.202000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_193804.JPG: Predicted in 3.226000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_171309.JPG: Predicted in 3.155000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_073729.JPG: Predicted in 3.124000 milli-seconds.
+fish: 67%
+fish: 44%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_153714.JPG: Predicted in 3.209000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_181553.JPG: Predicted in 3.359000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_122708.JPG: Predicted in 3.145000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_181457.JPG: Predicted in 3.183000 milli-seconds.
+fish: 58%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_071543.JPG: Predicted in 3.236000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_200201.JPG: Predicted in 3.156000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_194936.JPG: Predicted in 3.129000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_080103.JPG: Predicted in 3.162000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_090254.JPG: Predicted in 3.219000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_150148.JPG: Predicted in 3.207000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_092757.JPG: Predicted in 3.156000 milli-seconds.
+fish: 31%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_092713.JPG: Predicted in 3.185000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_190402.JPG: Predicted in 3.174000 milli-seconds.
+fish: 43%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_142659.JPG: Predicted in 3.214000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_141529.JPG: Predicted in 3.191000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_134903.JPG: Predicted in 3.159000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_143721.JPG: Predicted in 3.156000 milli-seconds.
+fish: 40%
+fish: 31%
+fish: 36%
+fish: 47%
+fish: 26%
+fish: 49%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_063918.JPG: Predicted in 3.186000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_131524.JPG: Predicted in 3.172000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_151337.JPG: Predicted in 3.174000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_134958.JPG: Predicted in 3.208000 milli-seconds.
+fish: 26%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_122514.JPG: Predicted in 3.139000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_113721.JPG: Predicted in 3.179000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_200302.JPG: Predicted in 3.153000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_120258.JPG: Predicted in 3.175000 milli-seconds.
+fish: 59%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_195053.JPG: Predicted in 3.143000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_103925.JPG: Predicted in 3.257000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_124925.JPG: Predicted in 3.168000 milli-seconds.
+fish: 42%
+fish: 45%
+fish: 29%
+fish: 37%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_082805.JPG: Predicted in 3.158000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_183806.JPG: Predicted in 3.195000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_121328.JPG: Predicted in 3.117000 milli-seconds.
+fish: 47%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_105146.JPG: Predicted in 3.245000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_074916.JPG: Predicted in 3.165000 milli-seconds.
+fish: 50%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_131353.JPG: Predicted in 3.118000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_063800.JPG: Predicted in 3.185000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_091526.JPG: Predicted in 3.175000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_202704.JPG: Predicted in 3.179000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_083708.JPG: Predicted in 3.149000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_191506.JPG: Predicted in 3.165000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_104931.JPG: Predicted in 3.322000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_154915.JPG: Predicted in 3.174000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_192741.JPG: Predicted in 3.170000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_102805.JPG: Predicted in 3.138000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_185111.JPG: Predicted in 3.164000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_120121.JPG: Predicted in 3.160000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_180131.JPG: Predicted in 3.112000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_092545.JPG: Predicted in 3.162000 milli-seconds.
+fish: 46%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_063906.JPG: Predicted in 3.203000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_131329.JPG: Predicted in 3.154000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_153723.JPG: Predicted in 3.148000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_111556.JPG: Predicted in 3.145000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_175126.JPG: Predicted in 3.144000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_100257.JPG: Predicted in 3.140000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_182515.JPG: Predicted in 3.157000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_201402.JPG: Predicted in 3.196000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_083930.JPG: Predicted in 3.165000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_090111.JPG: Predicted in 3.151000 milli-seconds.
+fish: 29%
+fish: 31%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_174931.JPG: Predicted in 3.225000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_143746.JPG: Predicted in 3.172000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_181338.JPG: Predicted in 3.180000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_145126.JPG: Predicted in 3.180000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_202558.JPG: Predicted in 3.197000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_110349.JPG: Predicted in 3.153000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_132503.JPG: Predicted in 3.195000 milli-seconds.
+fish: 45%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_072508.JPG: Predicted in 3.244000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_074909.JPG: Predicted in 3.158000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_074932.JPG: Predicted in 3.154000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_095154.JPG: Predicted in 3.145000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_101351.JPG: Predicted in 3.237000 milli-seconds.
+fish: 31%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_103852.JPG: Predicted in 3.143000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_070309.JPG: Predicted in 3.137000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_143929.JPG: Predicted in 3.194000 milli-seconds.
+fish: 47%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_091303.JPG: Predicted in 5.129000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_140400.JPG: Predicted in 3.245000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_144927.JPG: Predicted in 3.202000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_163959.JPG: Predicted in 3.149000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_120342.JPG: Predicted in 3.317000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_115131.JPG: Predicted in 3.157000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_115007.JPG: Predicted in 3.159000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_071316.JPG: Predicted in 3.177000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_102657.JPG: Predicted in 3.139000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_142503.JPG: Predicted in 3.150000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_121346.JPG: Predicted in 3.183000 milli-seconds.
+fish: 44%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_183742.JPG: Predicted in 3.123000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_200111.JPG: Predicted in 3.136000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_095126.JPG: Predicted in 3.157000 milli-seconds.
+fish: 40%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_080133.JPG: Predicted in 3.186000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_063930.JPG: Predicted in 3.143000 milli-seconds.
+fish: 57%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_123934.JPG: Predicted in 3.167000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_182542.JPG: Predicted in 3.185000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_081528.JPG: Predicted in 3.260000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_110133.JPG: Predicted in 3.140000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_145107.JPG: Predicted in 3.121000 milli-seconds.
+fish: 40%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_091315.JPG: Predicted in 3.160000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_183937.JPG: Predicted in 3.136000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_073820.JPG: Predicted in 3.227000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_072821.JPG: Predicted in 3.139000 milli-seconds.
+fish: 45%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_135002.JPG: Predicted in 3.167000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_094909.JPG: Predicted in 3.182000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_194926.JPG: Predicted in 3.152000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_084931.JPG: Predicted in 3.148000 milli-seconds.
+fish: 92%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_130114.JPG: Predicted in 3.149000 milli-seconds.
+fish: 59%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_111550.JPG: Predicted in 3.188000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_142614.JPG: Predicted in 3.249000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_124914.JPG: Predicted in 3.203000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_102527.JPG: Predicted in 3.205000 milli-seconds.
+fish: 40%
+fish: 31%
+fish: 53%
+fish: 52%
+fish: 31%
+fish: 44%
+fish: 27%
+fish: 26%
+fish: 36%
+fish: 56%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_110342.JPG: Predicted in 3.231000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_161353.JPG: Predicted in 3.142000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_153709.JPG: Predicted in 3.155000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_101303.JPG: Predicted in 3.148000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_082509.JPG: Predicted in 3.141000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_075206.JPG: Predicted in 3.152000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_085142.JPG: Predicted in 3.177000 milli-seconds.
+fish: 27%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_151518.JPG: Predicted in 3.147000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_080132.JPG: Predicted in 3.158000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_152538.JPG: Predicted in 3.209000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_102522.JPG: Predicted in 3.169000 milli-seconds.
+fish: 52%
+fish: 31%
+fish: 56%
+fish: 47%
+fish: 47%
+fish: 50%
+fish: 59%
+fish: 33%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_190332.JPG: Predicted in 3.187000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_063721.JPG: Predicted in 3.180000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_104941.JPG: Predicted in 3.121000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_121530.JPG: Predicted in 3.157000 milli-seconds.
+fish: 41%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_103703.JPG: Predicted in 3.156000 milli-seconds.
+fish: 47%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_194911.JPG: Predicted in 3.121000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_192603.JPG: Predicted in 3.166000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_150253.JPG: Predicted in 3.140000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_122745.JPG: Predicted in 3.218000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_144909.JPG: Predicted in 3.167000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_123914.JPG: Predicted in 3.162000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_202520.JPG: Predicted in 3.216000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_115136.JPG: Predicted in 3.142000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_200355.JPG: Predicted in 3.322000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_063911.JPG: Predicted in 3.259000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_111352.JPG: Predicted in 3.149000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_132604.JPG: Predicted in 3.182000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_132734.JPG: Predicted in 3.177000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_140344.JPG: Predicted in 3.179000 milli-seconds.
+fish: 54%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_071607.JPG: Predicted in 3.207000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_073809.JPG: Predicted in 3.183000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_165109.JPG: Predicted in 3.173000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_141325.JPG: Predicted in 3.178000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_131500.JPG: Predicted in 3.168000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_193944.JPG: Predicted in 3.122000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_202517.JPG: Predicted in 3.169000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_181536.JPG: Predicted in 3.143000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_080114.JPG: Predicted in 3.206000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_103921.JPG: Predicted in 3.134000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_202731.JPG: Predicted in 3.154000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_165100.JPG: Predicted in 3.148000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_115149.JPG: Predicted in 3.168000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_201331.JPG: Predicted in 3.188000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_192504.JPG: Predicted in 3.157000 milli-seconds.
+fish: 57%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_141309.JPG: Predicted in 3.194000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_151320.JPG: Predicted in 3.159000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_202714.JPG: Predicted in 3.178000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_092743.JPG: Predicted in 3.193000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_133721.JPG: Predicted in 3.181000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_181540.JPG: Predicted in 3.131000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_082706.JPG: Predicted in 3.181000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_120315.JPG: Predicted in 3.179000 milli-seconds.
+fish: 57%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_152814.JPG: Predicted in 3.233000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_141332.JPG: Predicted in 3.101000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_081345.JPG: Predicted in 3.159000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_192700.JPG: Predicted in 3.261000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_194934.JPG: Predicted in 3.136000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_182648.JPG: Predicted in 3.227000 milli-seconds.
+fish: 28%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_170253.JPG: Predicted in 3.193000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_092554.JPG: Predicted in 3.151000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_202712.JPG: Predicted in 3.166000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_164928.JPG: Predicted in 3.160000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_065106.JPG: Predicted in 3.148000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_080200.JPG: Predicted in 3.450000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_181454.JPG: Predicted in 3.102000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_091547.JPG: Predicted in 3.309000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_111533.JPG: Predicted in 3.224000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_083726.JPG: Predicted in 3.242000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_153919.JPG: Predicted in 3.135000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_072602.JPG: Predicted in 3.236000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_085101.JPG: Predicted in 3.227000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_115106.JPG: Predicted in 3.208000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_072722.JPG: Predicted in 3.219000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_181353.JPG: Predicted in 3.161000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_164909.JPG: Predicted in 3.241000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_065053.JPG: Predicted in 3.164000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_121353.JPG: Predicted in 3.218000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_173727.JPG: Predicted in 3.206000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_063937.JPG: Predicted in 3.180000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_131352.JPG: Predicted in 3.160000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_081622.JPG: Predicted in 3.174000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_130126.JPG: Predicted in 3.190000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_072711.JPG: Predicted in 3.152000 milli-seconds.
+fish: 34%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_155124.JPG: Predicted in 3.211000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_163721.JPG: Predicted in 3.279000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_200259.JPG: Predicted in 3.134000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_092724.JPG: Predicted in 3.152000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_093940.JPG: Predicted in 3.327000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_200344.JPG: Predicted in 3.200000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_170311.JPG: Predicted in 3.158000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_151448.JPG: Predicted in 3.182000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_120103.JPG: Predicted in 3.167000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_073916.JPG: Predicted in 3.113000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_111403.JPG: Predicted in 3.215000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_120349.JPG: Predicted in 3.191000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_111627.JPG: Predicted in 3.144000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_141603.JPG: Predicted in 3.166000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_163959.JPG: Predicted in 3.213000 milli-seconds.
+fish: 64%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_182515.JPG: Predicted in 3.139000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_111338.JPG: Predicted in 3.123000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_143954.JPG: Predicted in 3.274000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_085002.JPG: Predicted in 3.182000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_150115.JPG: Predicted in 3.192000 milli-seconds.
+fish: 49%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_083858.JPG: Predicted in 3.141000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_111533.JPG: Predicted in 3.143000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_075102.JPG: Predicted in 3.155000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_131319.JPG: Predicted in 3.144000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_082507.JPG: Predicted in 3.157000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_084908.JPG: Predicted in 3.190000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_111600.JPG: Predicted in 3.192000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_132503.JPG: Predicted in 3.153000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_082800.JPG: Predicted in 3.193000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_144001.JPG: Predicted in 3.189000 milli-seconds.
+fish: 49%
+fish: 42%
+fish: 48%
+fish: 26%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_171530.JPG: Predicted in 3.176000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_073734.JPG: Predicted in 3.138000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_131453.JPG: Predicted in 3.259000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_065058.JPG: Predicted in 3.169000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_094946.JPG: Predicted in 3.179000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_073803.JPG: Predicted in 3.154000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_182537.JPG: Predicted in 3.192000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_080139.JPG: Predicted in 3.167000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_120103.JPG: Predicted in 3.198000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_170108.JPG: Predicted in 3.139000 milli-seconds.
+fish: 34%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_092733.JPG: Predicted in 3.214000 milli-seconds.
+fish: 59%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_165107.JPG: Predicted in 3.206000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_101507.JPG: Predicted in 3.182000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_143948.JPG: Predicted in 3.137000 milli-seconds.
+fish: 53%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_073731.JPG: Predicted in 3.176000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_113756.JPG: Predicted in 3.181000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_172736.JPG: Predicted in 3.167000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_111541.JPG: Predicted in 3.133000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_111405.JPG: Predicted in 3.227000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_160150.JPG: Predicted in 3.168000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_140103.JPG: Predicted in 3.281000 milli-seconds.
+fish: 40%
+fish: 37%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_155121.JPG: Predicted in 3.217000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_133943.JPG: Predicted in 3.154000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_101542.JPG: Predicted in 3.236000 milli-seconds.
+fish: 74%
+fish: 46%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_090150.JPG: Predicted in 3.190000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_171520.JPG: Predicted in 3.176000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_142725.JPG: Predicted in 3.165000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_160307.JPG: Predicted in 3.156000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_195125.JPG: Predicted in 3.144000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_163749.JPG: Predicted in 3.122000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_110137.JPG: Predicted in 3.157000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_132752.JPG: Predicted in 3.133000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_155008.JPG: Predicted in 3.127000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_122603.JPG: Predicted in 3.151000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_110122.JPG: Predicted in 3.170000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_143721.JPG: Predicted in 3.333000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_083744.JPG: Predicted in 3.159000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_153812.JPG: Predicted in 3.157000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_100122.JPG: Predicted in 3.207000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_142513.JPG: Predicted in 3.346000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_171526.JPG: Predicted in 3.158000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_082523.JPG: Predicted in 3.293000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_111412.JPG: Predicted in 3.209000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_150123.JPG: Predicted in 3.155000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_172717.JPG: Predicted in 3.202000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_135013.JPG: Predicted in 3.133000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_063709.JPG: Predicted in 3.174000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_073927.JPG: Predicted in 3.264000 milli-seconds.
+fish: 27%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_080307.JPG: Predicted in 3.142000 milli-seconds.
+fish: 30%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_135156.JPG: Predicted in 3.146000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_100315.JPG: Predicted in 3.125000 milli-seconds.
+fish: 34%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_160108.JPG: Predicted in 3.137000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_075017.JPG: Predicted in 3.174000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_140351.JPG: Predicted in 3.165000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_170145.JPG: Predicted in 3.146000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_183709.JPG: Predicted in 3.145000 milli-seconds.
+fish: 77%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_171517.JPG: Predicted in 3.125000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_194958.JPG: Predicted in 3.137000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_100159.JPG: Predicted in 3.200000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_142608.JPG: Predicted in 3.162000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_160402.JPG: Predicted in 3.166000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_090205.JPG: Predicted in 3.166000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_202543.JPG: Predicted in 3.216000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_120135.JPG: Predicted in 3.111000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_101303.JPG: Predicted in 3.231000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_111353.JPG: Predicted in 3.209000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_090357.JPG: Predicted in 3.151000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_112546.JPG: Predicted in 3.154000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_110312.JPG: Predicted in 3.192000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_115134.JPG: Predicted in 3.161000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_161322.JPG: Predicted in 3.148000 milli-seconds.
+fish: 70%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_163703.JPG: Predicted in 3.164000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_162714.JPG: Predicted in 3.140000 milli-seconds.
+fish: 33%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_154915.JPG: Predicted in 3.197000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_063715.JPG: Predicted in 3.222000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_195105.JPG: Predicted in 3.255000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_193926.JPG: Predicted in 3.103000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_083958.JPG: Predicted in 3.249000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_113727.JPG: Predicted in 3.219000 milli-seconds.
+fish: 61%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_172800.JPG: Predicted in 3.265000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_122705.JPG: Predicted in 3.178000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_102528.JPG: Predicted in 3.172000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_123912.JPG: Predicted in 3.147000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_163924.JPG: Predicted in 3.150000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_192503.JPG: Predicted in 3.132000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_081534.JPG: Predicted in 3.236000 milli-seconds.
+fish: 42%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_120110.JPG: Predicted in 3.165000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_161514.JPG: Predicted in 3.256000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_132737.JPG: Predicted in 3.260000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_133714.JPG: Predicted in 3.142000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_161546.JPG: Predicted in 3.187000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_190108.JPG: Predicted in 3.146000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_143910.JPG: Predicted in 3.171000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_073919.JPG: Predicted in 3.143000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_122803.JPG: Predicted in 3.158000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_142726.JPG: Predicted in 3.111000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_122508.JPG: Predicted in 3.170000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_120134.JPG: Predicted in 3.141000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_135154.JPG: Predicted in 3.243000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_141552.JPG: Predicted in 3.167000 milli-seconds.
+fish: 60%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_151324.JPG: Predicted in 3.148000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_133740.JPG: Predicted in 3.145000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_081540.JPG: Predicted in 3.174000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_190147.JPG: Predicted in 3.144000 milli-seconds.
+fish: 74%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_181509.JPG: Predicted in 3.114000 milli-seconds.
+fish: 30%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_171533.JPG: Predicted in 3.252000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_065124.JPG: Predicted in 3.232000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_170128.JPG: Predicted in 3.156000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_152539.JPG: Predicted in 3.243000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_131636.JPG: Predicted in 3.207000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_080108.JPG: Predicted in 3.162000 milli-seconds.
+fish: 26%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_132653.JPG: Predicted in 3.169000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_131604.JPG: Predicted in 3.135000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_131302.JPG: Predicted in 3.167000 milli-seconds.
+fish: 48%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_090125.JPG: Predicted in 3.177000 milli-seconds.
+fish: 60%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_162609.JPG: Predicted in 3.188000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_102754.JPG: Predicted in 3.152000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_112721.JPG: Predicted in 3.157000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_201347.JPG: Predicted in 3.133000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_190346.JPG: Predicted in 3.142000 milli-seconds.
+fish: 26%
+fish: 58%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_160256.JPG: Predicted in 3.132000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_114013.JPG: Predicted in 3.235000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_121315.JPG: Predicted in 3.182000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_091335.JPG: Predicted in 3.135000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_192531.JPG: Predicted in 3.162000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_114933.JPG: Predicted in 3.179000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_180334.JPG: Predicted in 3.129000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_180352.JPG: Predicted in 3.112000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_150108.JPG: Predicted in 3.200000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_141344.JPG: Predicted in 3.190000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_063859.JPG: Predicted in 3.143000 milli-seconds.
+fish: 51%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_130205.JPG: Predicted in 3.142000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_131303.JPG: Predicted in 3.175000 milli-seconds.
+fish: 80%
+fish: 68%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_174926.JPG: Predicted in 3.171000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_140138.JPG: Predicted in 3.171000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_094039.JPG: Predicted in 3.119000 milli-seconds.
+fish: 35%
+fish: 60%
+fish: 33%
+fish: 54%
+fish: 30%
+fish: 29%
+fish: 35%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_104959.JPG: Predicted in 3.161000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_111544.JPG: Predicted in 3.143000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_081327.JPG: Predicted in 3.224000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_175143.JPG: Predicted in 3.177000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_181303.JPG: Predicted in 3.175000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_155125.JPG: Predicted in 3.182000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_140205.JPG: Predicted in 3.237000 milli-seconds.
+fish: 32%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_142801.JPG: Predicted in 3.153000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_192747.JPG: Predicted in 3.172000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_142655.JPG: Predicted in 3.190000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_171303.JPG: Predicted in 3.260000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_084919.JPG: Predicted in 3.157000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_081520.JPG: Predicted in 3.163000 milli-seconds.
+fish: 32%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_092653.JPG: Predicted in 3.182000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_063711.JPG: Predicted in 3.149000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_111327.JPG: Predicted in 3.136000 milli-seconds.
+fish: 33%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_071627.JPG: Predicted in 3.117000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_133950.JPG: Predicted in 3.160000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_151531.JPG: Predicted in 3.170000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_073730.JPG: Predicted in 3.217000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_151527.JPG: Predicted in 3.154000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_162514.JPG: Predicted in 3.191000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_171606.JPG: Predicted in 3.192000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_081331.JPG: Predicted in 3.146000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_125118.JPG: Predicted in 3.125000 milli-seconds.
+fish: 27%
+fish: 26%
+fish: 30%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_150253.JPG: Predicted in 3.118000 milli-seconds.
+fish: 42%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_121327.JPG: Predicted in 3.143000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_092810.JPG: Predicted in 3.140000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_183803.JPG: Predicted in 3.149000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_113941.JPG: Predicted in 3.134000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_133909.JPG: Predicted in 3.177000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_132714.JPG: Predicted in 3.168000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_200312.JPG: Predicted in 3.156000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_100330.JPG: Predicted in 3.161000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_150323.JPG: Predicted in 3.155000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_163940.JPG: Predicted in 3.180000 milli-seconds.
+fish: 26%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_173909.JPG: Predicted in 3.162000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_152533.JPG: Predicted in 3.126000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_175113.JPG: Predicted in 3.102000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_141550.JPG: Predicted in 3.160000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_084938.JPG: Predicted in 3.132000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_063924.JPG: Predicted in 3.149000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_070156.JPG: Predicted in 3.203000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_181501.JPG: Predicted in 3.138000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_162657.JPG: Predicted in 3.160000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_185119.JPG: Predicted in 3.133000 milli-seconds.
+fish: 26%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_191321.JPG: Predicted in 3.214000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_201453.JPG: Predicted in 3.144000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_140115.JPG: Predicted in 3.180000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_112509.JPG: Predicted in 3.196000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_163929.JPG: Predicted in 3.152000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_082543.JPG: Predicted in 3.211000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_182605.JPG: Predicted in 3.164000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_082741.JPG: Predicted in 3.141000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_182512.JPG: Predicted in 3.138000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_190156.JPG: Predicted in 3.151000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_141609.JPG: Predicted in 3.170000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_120306.JPG: Predicted in 3.164000 milli-seconds.
+fish: 39%
+fish: 31%
+fish: 41%
+fish: 27%
+fish: 60%
+fish: 62%
+fish: 26%
+fish: 30%
+fish: 54%
+fish: 64%
+fish: 71%
+fish: 58%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_175012.JPG: Predicted in 3.183000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_095136.JPG: Predicted in 3.156000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_190108.JPG: Predicted in 3.150000 milli-seconds.
+fish: 62%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_072653.JPG: Predicted in 3.147000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_075104.JPG: Predicted in 3.158000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_122530.JPG: Predicted in 3.184000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_095121.JPG: Predicted in 3.131000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_120332.JPG: Predicted in 3.146000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_173703.JPG: Predicted in 3.170000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_191321.JPG: Predicted in 3.164000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_101545.JPG: Predicted in 3.151000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_194003.JPG: Predicted in 3.146000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_082746.JPG: Predicted in 3.210000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_143744.JPG: Predicted in 3.164000 milli-seconds.
+fish: 65%
+fish: 33%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_093858.JPG: Predicted in 3.148000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_155100.JPG: Predicted in 3.197000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_190103.JPG: Predicted in 3.193000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_154939.JPG: Predicted in 3.171000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_160121.JPG: Predicted in 3.132000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_163750.JPG: Predicted in 3.133000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_170103.JPG: Predicted in 3.180000 milli-seconds.
+fish: 26%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_184917.JPG: Predicted in 3.192000 milli-seconds.
+fish: 56%
+fish: 31%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_122522.JPG: Predicted in 3.173000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_101526.JPG: Predicted in 3.158000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_133855.JPG: Predicted in 3.139000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_113703.JPG: Predicted in 3.129000 milli-seconds.
+fish: 82%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_064903.JPG: Predicted in 3.179000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_120330.JPG: Predicted in 3.174000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_103720.JPG: Predicted in 3.144000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_111622.JPG: Predicted in 3.179000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_201355.JPG: Predicted in 3.150000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_141351.JPG: Predicted in 3.266000 milli-seconds.
+fish: 27%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_193810.JPG: Predicted in 3.158000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_125110.JPG: Predicted in 3.132000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_081337.JPG: Predicted in 3.246000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_071556.JPG: Predicted in 3.197000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_092530.JPG: Predicted in 3.150000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_180319.JPG: Predicted in 3.163000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_155154.JPG: Predicted in 3.300000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_181331.JPG: Predicted in 3.162000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_170307.JPG: Predicted in 3.242000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_081534.JPG: Predicted in 3.144000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_102607.JPG: Predicted in 3.207000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_081535.JPG: Predicted in 3.240000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_135109.JPG: Predicted in 3.184000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_124956.JPG: Predicted in 3.178000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_172520.JPG: Predicted in 3.205000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_080354.JPG: Predicted in 3.166000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_172556.JPG: Predicted in 3.146000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_122743.JPG: Predicted in 3.210000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_101457.JPG: Predicted in 3.188000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_082752.JPG: Predicted in 3.187000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_120328.JPG: Predicted in 3.167000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_190124.JPG: Predicted in 3.150000 milli-seconds.
+fish: 50%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_074903.JPG: Predicted in 3.129000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_170302.JPG: Predicted in 3.167000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_112540.JPG: Predicted in 3.131000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_193721.JPG: Predicted in 3.174000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_101601.JPG: Predicted in 3.149000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_162502.JPG: Predicted in 3.145000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_132715.JPG: Predicted in 3.147000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_084937.JPG: Predicted in 3.137000 milli-seconds.
+fish: 53%
+fish: 75%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_093709.JPG: Predicted in 3.180000 milli-seconds.
+fish: 29%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_085136.JPG: Predicted in 3.230000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_081308.JPG: Predicted in 3.136000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_143942.JPG: Predicted in 3.238000 milli-seconds.
+fish: 61%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_080102.JPG: Predicted in 3.177000 milli-seconds.
+fish: 43%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_183715.JPG: Predicted in 3.165000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_073938.JPG: Predicted in 3.197000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_185146.JPG: Predicted in 3.200000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_130424.JPG: Predicted in 3.150000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_185002.JPG: Predicted in 3.131000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_193703.JPG: Predicted in 3.118000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_081609.JPG: Predicted in 3.401000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_070123.JPG: Predicted in 3.151000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_192746.JPG: Predicted in 3.164000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_110355.JPG: Predicted in 3.139000 milli-seconds.
+fish: 34%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_183710.JPG: Predicted in 3.138000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_122736.JPG: Predicted in 3.177000 milli-seconds.
+fish: 30%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_091414.JPG: Predicted in 3.146000 milli-seconds.
+fish: 28%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_122529.JPG: Predicted in 3.173000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_063730.JPG: Predicted in 3.241000 milli-seconds.
+fish: 35%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_162750.JPG: Predicted in 3.148000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_172542.JPG: Predicted in 3.165000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_105220.JPG: Predicted in 3.175000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_122737.JPG: Predicted in 3.191000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_142510.JPG: Predicted in 3.239000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_144914.JPG: Predicted in 3.183000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_125144.JPG: Predicted in 3.130000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_091303.JPG: Predicted in 3.153000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_082755.JPG: Predicted in 3.261000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_133720.JPG: Predicted in 3.156000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_095009.JPG: Predicted in 3.113000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_164915.JPG: Predicted in 3.189000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_094916.JPG: Predicted in 3.149000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_180139.JPG: Predicted in 3.207000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_101401.JPG: Predicted in 3.115000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_163740.JPG: Predicted in 3.181000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_080325.JPG: Predicted in 3.153000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_161548.JPG: Predicted in 3.202000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_113718.JPG: Predicted in 3.185000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_082503.JPG: Predicted in 3.120000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_172730.JPG: Predicted in 3.306000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_093733.JPG: Predicted in 3.201000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_095121.JPG: Predicted in 3.180000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_151338.JPG: Predicted in 3.157000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_182555.JPG: Predicted in 3.172000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_143721.JPG: Predicted in 3.139000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_182724.JPG: Predicted in 3.144000 milli-seconds.
+fish: 47%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_071406.JPG: Predicted in 3.182000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_103908.JPG: Predicted in 3.139000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_145053.JPG: Predicted in 3.148000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_192713.JPG: Predicted in 3.144000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_131359.JPG: Predicted in 3.146000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_135144.JPG: Predicted in 3.167000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_125138.JPG: Predicted in 3.153000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_110211.JPG: Predicted in 3.126000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_162733.JPG: Predicted in 3.196000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_161540.JPG: Predicted in 3.140000 milli-seconds.
+fish: 28%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_192754.JPG: Predicted in 3.179000 milli-seconds.
+fish: 50%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_164928.JPG: Predicted in 3.218000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_173933.JPG: Predicted in 3.180000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_082808.JPG: Predicted in 3.228000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_082758.JPG: Predicted in 3.194000 milli-seconds.
+fish: 33%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_192602.JPG: Predicted in 3.167000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_113807.JPG: Predicted in 3.073000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_180253.JPG: Predicted in 3.158000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_153702.JPG: Predicted in 3.168000 milli-seconds.
+fish: 58%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_103932.JPG: Predicted in 3.148000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_191605.JPG: Predicted in 3.177000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_141351.JPG: Predicted in 3.164000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_080117.JPG: Predicted in 3.172000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_160108.JPG: Predicted in 3.155000 milli-seconds.
+fish: 50%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_103755.JPG: Predicted in 3.181000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_144943.JPG: Predicted in 3.197000 milli-seconds.
+fish: 26%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_174932.JPG: Predicted in 3.169000 milli-seconds.
+fish: 45%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_165007.JPG: Predicted in 3.182000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_180102.JPG: Predicted in 3.168000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_111403.JPG: Predicted in 3.141000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_183940.JPG: Predicted in 3.174000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_122716.JPG: Predicted in 3.144000 milli-seconds.
+fish: 30%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_100128.JPG: Predicted in 3.159000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_073808.JPG: Predicted in 3.200000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_101308.JPG: Predicted in 3.160000 milli-seconds.
+fish: 26%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_170336.JPG: Predicted in 3.162000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_131622.JPG: Predicted in 3.172000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_131322.JPG: Predicted in 3.172000 milli-seconds.
+fish: 28%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_103908.JPG: Predicted in 3.139000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_184025.JPG: Predicted in 3.201000 milli-seconds.
+fish: 73%
+fish: 55%
+fish: 43%
+fish: 55%
+fish: 61%
+fish: 55%
+fish: 67%
+fish: 55%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_112553.JPG: Predicted in 3.176000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_111634.JPG: Predicted in 3.123000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_141544.JPG: Predicted in 3.322000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_083931.JPG: Predicted in 3.153000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_154950.JPG: Predicted in 3.174000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_080317.JPG: Predicted in 3.157000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_085227.JPG: Predicted in 3.252000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_154928.JPG: Predicted in 3.165000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_141402.JPG: Predicted in 3.140000 milli-seconds.
+fish: 55%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_143714.JPG: Predicted in 3.126000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_152526.JPG: Predicted in 3.152000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_110422.JPG: Predicted in 3.196000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_172703.JPG: Predicted in 3.168000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_072716.JPG: Predicted in 3.141000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_144935.JPG: Predicted in 3.144000 milli-seconds.
+fish: 34%
+fish: 31%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_080206.JPG: Predicted in 3.159000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_152509.JPG: Predicted in 3.192000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_182524.JPG: Predicted in 3.183000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_153951.JPG: Predicted in 3.133000 milli-seconds.
+fish: 55%
+fish: 79%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_083944.JPG: Predicted in 3.183000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_073914.JPG: Predicted in 3.150000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_102656.JPG: Predicted in 3.153000 milli-seconds.
+fish: 35%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_090134.JPG: Predicted in 3.165000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_070404.JPG: Predicted in 3.170000 milli-seconds.
+fish: 63%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_074916.JPG: Predicted in 3.185000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_085102.JPG: Predicted in 3.140000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_192816.JPG: Predicted in 3.152000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_104956.JPG: Predicted in 3.179000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_175119.JPG: Predicted in 3.096000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_200404.JPG: Predicted in 3.114000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_132659.JPG: Predicted in 3.222000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_163951.JPG: Predicted in 3.174000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_071303.JPG: Predicted in 3.185000 milli-seconds.
+fish: 32%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_105123.JPG: Predicted in 3.200000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_190354.JPG: Predicted in 3.144000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_173805.JPG: Predicted in 3.208000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_064915.JPG: Predicted in 3.140000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_093749.JPG: Predicted in 3.197000 milli-seconds.
+fish: 56%
+fish: 41%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_161502.JPG: Predicted in 3.145000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_131534.JPG: Predicted in 3.201000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_171316.JPG: Predicted in 3.229000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_125058.JPG: Predicted in 3.144000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_161539.JPG: Predicted in 3.159000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_191554.JPG: Predicted in 3.772000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_103746.JPG: Predicted in 3.174000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_163858.JPG: Predicted in 3.231000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_071321.JPG: Predicted in 3.152000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_190118.JPG: Predicted in 3.197000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_160145.JPG: Predicted in 3.180000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_115124.JPG: Predicted in 3.224000 milli-seconds.
+fish: 26%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_141338.JPG: Predicted in 3.159000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_155014.JPG: Predicted in 3.151000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_120259.JPG: Predicted in 3.154000 milli-seconds.
+fish: 29%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_100103.JPG: Predicted in 3.141000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_092607.JPG: Predicted in 3.140000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_123957.JPG: Predicted in 3.201000 milli-seconds.
+fish: 33%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_120325.JPG: Predicted in 3.153000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_173731.JPG: Predicted in 3.166000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_091541.JPG: Predicted in 3.170000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_152722.JPG: Predicted in 3.194000 milli-seconds.
+fish: 30%
+fish: 38%
+fish: 32%
+fish: 45%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_111607.JPG: Predicted in 3.184000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_162609.JPG: Predicted in 3.175000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_084908.JPG: Predicted in 3.214000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_115220.JPG: Predicted in 3.179000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_175111.JPG: Predicted in 3.177000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_110258.JPG: Predicted in 3.226000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_072702.JPG: Predicted in 3.194000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_111309.JPG: Predicted in 3.181000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_091351.JPG: Predicted in 3.209000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_110254.JPG: Predicted in 3.163000 milli-seconds.
+fish: 32%
+fish: 33%
+fish: 32%
+fish: 64%
+fish: 48%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_183929.JPG: Predicted in 3.147000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_122722.JPG: Predicted in 3.183000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_072807.JPG: Predicted in 3.145000 milli-seconds.
+fish: 67%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_090132.JPG: Predicted in 3.176000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_122509.JPG: Predicted in 3.181000 milli-seconds.
+fish: 40%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_170117.JPG: Predicted in 3.140000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_150103.JPG: Predicted in 3.191000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_090154.JPG: Predicted in 3.154000 milli-seconds.
+fish: 30%
+fish: 50%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_201454.JPG: Predicted in 3.177000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_165120.JPG: Predicted in 3.189000 milli-seconds.
+fish: 31%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_132719.JPG: Predicted in 3.160000 milli-seconds.
+fish: 27%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_085056.JPG: Predicted in 3.182000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_120253.JPG: Predicted in 3.319000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_132728.JPG: Predicted in 3.170000 milli-seconds.
+fish: 38%
+fish: 45%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_101617.JPG: Predicted in 3.160000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_073946.JPG: Predicted in 3.189000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_145120.JPG: Predicted in 3.172000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_184019.JPG: Predicted in 3.150000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_155114.JPG: Predicted in 3.145000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_073855.JPG: Predicted in 3.189000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_092727.JPG: Predicted in 3.205000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_131414.JPG: Predicted in 3.136000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_161512.JPG: Predicted in 3.233000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_063754.JPG: Predicted in 3.169000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_074001.JPG: Predicted in 3.147000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_162544.JPG: Predicted in 3.184000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_121414.JPG: Predicted in 3.162000 milli-seconds.
+fish: 35%
+fish: 48%
+fish: 32%
+fish: 76%
+fish: 38%
+fish: 39%
+fish: 38%
+fish: 27%
+fish: 31%
+fish: 44%
+fish: 89%
+fish: 76%
+fish: 69%
+fish: 58%
+fish: 76%
+fish: 68%
+fish: 41%
+fish: 64%
+fish: 47%
+fish: 71%
+fish: 67%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_154952.JPG: Predicted in 3.163000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_193916.JPG: Predicted in 3.146000 milli-seconds.
+fish: 40%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_133759.JPG: Predicted in 3.192000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_080346.JPG: Predicted in 3.161000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_125124.JPG: Predicted in 3.168000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_175059.JPG: Predicted in 3.188000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_103857.JPG: Predicted in 3.167000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_095207.JPG: Predicted in 3.181000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_192656.JPG: Predicted in 3.241000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_074946.JPG: Predicted in 3.136000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_152600.JPG: Predicted in 3.168000 milli-seconds.
+fish: 67%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_110304.JPG: Predicted in 3.227000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_140114.JPG: Predicted in 3.159000 milli-seconds.
+fish: 34%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_104924.JPG: Predicted in 3.162000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_131529.JPG: Predicted in 3.143000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_112519.JPG: Predicted in 3.181000 milli-seconds.
+fish: 55%
+fish: 51%
+fish: 33%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_133814.JPG: Predicted in 3.176000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_190312.JPG: Predicted in 3.183000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_132531.JPG: Predicted in 3.218000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_100433.JPG: Predicted in 3.128000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_152532.JPG: Predicted in 3.134000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_111605.JPG: Predicted in 3.124000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_092746.JPG: Predicted in 3.159000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_120214.JPG: Predicted in 3.148000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_202722.JPG: Predicted in 3.132000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_095102.JPG: Predicted in 3.164000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_101409.JPG: Predicted in 3.151000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_173955.JPG: Predicted in 3.134000 milli-seconds.
+fish: 28%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_095201.JPG: Predicted in 3.165000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_161401.JPG: Predicted in 3.091000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_201331.JPG: Predicted in 3.115000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_170334.JPG: Predicted in 3.224000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_102516.JPG: Predicted in 3.157000 milli-seconds.
+fish: 49%
+fish: 74%
+fish: 28%
+fish: 43%
+fish: 28%
+fish: 64%
+fish: 35%
+fish: 52%
+fish: 33%
+fish: 38%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_180253.JPG: Predicted in 3.157000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_184026.JPG: Predicted in 3.142000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_145153.JPG: Predicted in 3.346000 milli-seconds.
+fish: 33%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_145002.JPG: Predicted in 3.138000 milli-seconds.
+fish: 37%
+fish: 47%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_200356.JPG: Predicted in 3.139000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_141522.JPG: Predicted in 3.150000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_071455.JPG: Predicted in 3.108000 milli-seconds.
+fish: 26%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_163715.JPG: Predicted in 3.227000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_080330.JPG: Predicted in 3.171000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_171541.JPG: Predicted in 3.132000 milli-seconds.
+fish: 70%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_152703.JPG: Predicted in 3.161000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_120211.JPG: Predicted in 3.128000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_120338.JPG: Predicted in 3.174000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_131346.JPG: Predicted in 3.165000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_195007.JPG: Predicted in 3.137000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_110114.JPG: Predicted in 3.098000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_092613.JPG: Predicted in 3.113000 milli-seconds.
+fish: 66%
+fish: 68%
+fish: 26%
+fish: 35%
+fish: 32%
+fish: 29%
+fish: 30%
+fish: 32%
+fish: 40%
+fish: 38%
+fish: 36%
+fish: 73%
+fish: 58%
+fish: 60%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_115148.JPG: Predicted in 3.172000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_193930.JPG: Predicted in 3.136000 milli-seconds.
+fish: 37%
+fish: 29%
+fish: 25%
+fish: 32%
+fish: 50%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_183728.JPG: Predicted in 3.146000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_065222.JPG: Predicted in 3.126000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_165137.JPG: Predicted in 3.150000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_141517.JPG: Predicted in 3.155000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_104914.JPG: Predicted in 3.154000 milli-seconds.
+fish: 75%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_091524.JPG: Predicted in 3.130000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_113748.JPG: Predicted in 3.148000 milli-seconds.
+fish: 68%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_200303.JPG: Predicted in 3.153000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_074958.JPG: Predicted in 3.153000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_192714.JPG: Predicted in 3.133000 milli-seconds.
+fish: 39%
+fish: 41%
+fish: 47%
+fish: 34%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_182518.JPG: Predicted in 3.149000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_123856.JPG: Predicted in 3.165000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_084952.JPG: Predicted in 3.141000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_155001.JPG: Predicted in 3.141000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_091401.JPG: Predicted in 3.270000 milli-seconds.
+fish: 56%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_152653.JPG: Predicted in 3.150000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_120103.JPG: Predicted in 3.129000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_190323.JPG: Predicted in 3.151000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_155146.JPG: Predicted in 3.160000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_105226.JPG: Predicted in 3.157000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_170108.JPG: Predicted in 3.153000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_120207.JPG: Predicted in 3.124000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_132524.JPG: Predicted in 3.137000 milli-seconds.
+fish: 32%
+fish: 53%
+fish: 88%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_112746.JPG: Predicted in 3.150000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_071500.JPG: Predicted in 3.169000 milli-seconds.
+fish: 33%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_071321.JPG: Predicted in 3.094000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_201458.JPG: Predicted in 3.129000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_132747.JPG: Predicted in 3.136000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_084943.JPG: Predicted in 3.211000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_104945.JPG: Predicted in 3.124000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_091600.JPG: Predicted in 3.142000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_083756.JPG: Predicted in 3.146000 milli-seconds.
+fish: 37%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_162737.JPG: Predicted in 3.222000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_083708.JPG: Predicted in 3.128000 milli-seconds.
+fish: 68%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_173736.JPG: Predicted in 3.105000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_095130.JPG: Predicted in 3.130000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_165122.JPG: Predicted in 3.136000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_202752.JPG: Predicted in 3.160000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_162759.JPG: Predicted in 3.135000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_191321.JPG: Predicted in 3.116000 milli-seconds.
+fish: 61%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_082708.JPG: Predicted in 3.131000 milli-seconds.
+fish: 29%
+fish: 37%
+fish: 32%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_100303.JPG: Predicted in 3.216000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_142655.JPG: Predicted in 3.157000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_150140.JPG: Predicted in 3.117000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_171518.JPG: Predicted in 3.135000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_094922.JPG: Predicted in 3.128000 milli-seconds.
+fish: 77%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_100134.JPG: Predicted in 3.152000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_093806.JPG: Predicted in 3.138000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_154908.JPG: Predicted in 3.148000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_142507.JPG: Predicted in 3.136000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_164922.JPG: Predicted in 3.108000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_131605.JPG: Predicted in 3.163000 milli-seconds.
+fish: 30%
+fish: 37%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_195146.JPG: Predicted in 3.164000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_113713.JPG: Predicted in 3.175000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_090127.JPG: Predicted in 3.142000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_082726.JPG: Predicted in 3.155000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_092732.JPG: Predicted in 3.191000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_112715.JPG: Predicted in 3.141000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_071327.JPG: Predicted in 3.164000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_111303.JPG: Predicted in 3.094000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_133903.JPG: Predicted in 3.181000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_154920.JPG: Predicted in 3.143000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_085123.JPG: Predicted in 3.159000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_153942.JPG: Predicted in 3.155000 milli-seconds.
+fish: 42%
+fish: 34%
+fish: 46%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_145057.JPG: Predicted in 3.122000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_063723.JPG: Predicted in 3.184000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_154956.JPG: Predicted in 3.143000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_152532.JPG: Predicted in 3.158000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_155151.JPG: Predicted in 3.211000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_121343.JPG: Predicted in 3.170000 milli-seconds.
+fish: 39%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_122717.JPG: Predicted in 3.107000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_144000.JPG: Predicted in 3.161000 milli-seconds.
+fish: 28%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_144003.JPG: Predicted in 3.137000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_144923.JPG: Predicted in 3.121000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_131405.JPG: Predicted in 3.150000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_171303.JPG: Predicted in 3.149000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_102703.JPG: Predicted in 3.120000 milli-seconds.
+fish: 40%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_191331.JPG: Predicted in 3.108000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_090146.JPG: Predicted in 3.151000 milli-seconds.
+fish: 49%
+fish: 44%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_095058.JPG: Predicted in 3.131000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_100125.JPG: Predicted in 3.125000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_124908.JPG: Predicted in 3.195000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_161345.JPG: Predicted in 3.114000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_072503.JPG: Predicted in 3.109000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_113709.JPG: Predicted in 3.118000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_102812.JPG: Predicted in 3.106000 milli-seconds.
+fish: 29%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_171410.JPG: Predicted in 3.101000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_113802.JPG: Predicted in 3.099000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_093802.JPG: Predicted in 3.149000 milli-seconds.
+fish: 46%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_130103.JPG: Predicted in 3.126000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_063806.JPG: Predicted in 3.191000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_153703.JPG: Predicted in 3.132000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_190103.JPG: Predicted in 3.212000 milli-seconds.
+fish: 52%
+fish: 43%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_074915.JPG: Predicted in 3.149000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_080257.JPG: Predicted in 3.126000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_111556.JPG: Predicted in 3.120000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_080114.JPG: Predicted in 3.125000 milli-seconds.
+fish: 43%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_175133.JPG: Predicted in 3.107000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_091401.JPG: Predicted in 3.196000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_165146.JPG: Predicted in 3.180000 milli-seconds.
+fish: 60%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_183917.JPG: Predicted in 3.183000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_181503.JPG: Predicted in 3.137000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_174952.JPG: Predicted in 3.171000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_074953.JPG: Predicted in 3.097000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_115014.JPG: Predicted in 3.117000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_121309.JPG: Predicted in 3.173000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_090115.JPG: Predicted in 3.133000 milli-seconds.
+fish: 44%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_145212.JPG: Predicted in 3.126000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_155054.JPG: Predicted in 3.106000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_143708.JPG: Predicted in 3.165000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_152521.JPG: Predicted in 3.092000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_191325.JPG: Predicted in 3.134000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_144903.JPG: Predicted in 3.152000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_093709.JPG: Predicted in 3.141000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_160253.JPG: Predicted in 3.125000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_195118.JPG: Predicted in 3.121000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_063748.JPG: Predicted in 3.127000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_143703.JPG: Predicted in 3.117000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_081514.JPG: Predicted in 3.139000 milli-seconds.
+fish: 26%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_180120.JPG: Predicted in 3.133000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_194943.JPG: Predicted in 3.127000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_140109.JPG: Predicted in 3.121000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_081559.JPG: Predicted in 3.168000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_130120.JPG: Predicted in 3.134000 milli-seconds.
+fish: 64%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_190150.JPG: Predicted in 3.114000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_174931.JPG: Predicted in 3.151000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_195159.JPG: Predicted in 3.176000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_115059.JPG: Predicted in 3.197000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_160347.JPG: Predicted in 3.131000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_202712.JPG: Predicted in 3.156000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_111314.JPG: Predicted in 3.140000 milli-seconds.
+fish: 30%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_193915.JPG: Predicted in 3.109000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_121456.JPG: Predicted in 3.143000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_123731.JPG: Predicted in 3.124000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_113703.JPG: Predicted in 3.154000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_170157.JPG: Predicted in 3.154000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_181344.JPG: Predicted in 3.120000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_172754.JPG: Predicted in 3.151000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_151541.JPG: Predicted in 3.153000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_102734.JPG: Predicted in 3.242000 milli-seconds.
+fish: 31%
+fish: 45%
+fish: 28%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_142758.JPG: Predicted in 3.082000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_092718.JPG: Predicted in 3.175000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_141303.JPG: Predicted in 3.112000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_084932.JPG: Predicted in 3.221000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_143808.JPG: Predicted in 3.102000 milli-seconds.
+fish: 55%
+fish: 81%
+fish: 41%
+fish: 31%
+fish: 68%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_130315.JPG: Predicted in 3.198000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_132510.JPG: Predicted in 3.231000 milli-seconds.
+fish: 50%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_201453.JPG: Predicted in 3.111000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_150132.JPG: Predicted in 3.122000 milli-seconds.
+fish: 42%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_123803.JPG: Predicted in 3.168000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_081517.JPG: Predicted in 3.301000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_075108.JPG: Predicted in 3.144000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_131309.JPG: Predicted in 3.154000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_183958.JPG: Predicted in 3.185000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_065153.JPG: Predicted in 3.145000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_111616.JPG: Predicted in 3.121000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_082733.JPG: Predicted in 3.116000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_193811.JPG: Predicted in 3.182000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_115001.JPG: Predicted in 3.159000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_160310.JPG: Predicted in 3.157000 milli-seconds.
+fish: 29%
+fish: 57%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_121303.JPG: Predicted in 3.179000 milli-seconds.
+fish: 66%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_151601.JPG: Predicted in 3.107000 milli-seconds.
+fish: 33%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_181314.JPG: Predicted in 3.213000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_202800.JPG: Predicted in 3.136000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_143947.JPG: Predicted in 3.156000 milli-seconds.
+fish: 34%
+fish: 53%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_083750.JPG: Predicted in 3.197000 milli-seconds.
+fish: 41%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_192519.JPG: Predicted in 3.140000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_191525.JPG: Predicted in 3.116000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_073950.JPG: Predicted in 3.152000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_122600.JPG: Predicted in 3.147000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_132611.JPG: Predicted in 3.133000 milli-seconds.
+fish: 27%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_083703.JPG: Predicted in 3.207000 milli-seconds.
+fish: 53%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_080125.JPG: Predicted in 3.120000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_190325.JPG: Predicted in 3.112000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_194933.JPG: Predicted in 3.168000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_071340.JPG: Predicted in 3.130000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_165002.JPG: Predicted in 3.122000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_121407.JPG: Predicted in 3.120000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_070322.JPG: Predicted in 3.117000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_121303.JPG: Predicted in 3.157000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_073803.JPG: Predicted in 3.136000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_110135.JPG: Predicted in 3.130000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_173927.JPG: Predicted in 3.104000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_064932.JPG: Predicted in 3.142000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_082537.JPG: Predicted in 3.149000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_180309.JPG: Predicted in 3.115000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_123709.JPG: Predicted in 3.139000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_160319.JPG: Predicted in 3.179000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_193904.JPG: Predicted in 3.183000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_122555.JPG: Predicted in 3.171000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_092539.JPG: Predicted in 3.155000 milli-seconds.
+fish: 68%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_151310.JPG: Predicted in 3.127000 milli-seconds.
+fish: 49%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_142705.JPG: Predicted in 3.181000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_081302.JPG: Predicted in 3.141000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_092548.JPG: Predicted in 3.116000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_130103.JPG: Predicted in 3.136000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_183859.JPG: Predicted in 3.106000 milli-seconds.
+fish: 44%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_083802.JPG: Predicted in 3.264000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_151510.JPG: Predicted in 3.139000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_185050.JPG: Predicted in 3.163000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_163806.JPG: Predicted in 3.101000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_114933.JPG: Predicted in 3.128000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_073927.JPG: Predicted in 3.270000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_192503.JPG: Predicted in 3.151000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_110131.JPG: Predicted in 3.262000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_144929.JPG: Predicted in 3.132000 milli-seconds.
+fish: 32%
+fish: 36%
+fish: 45%
+fish: 33%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_193851.JPG: Predicted in 3.108000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_155127.JPG: Predicted in 3.135000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_070349.JPG: Predicted in 3.142000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_125159.JPG: Predicted in 3.589000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_182546.JPG: Predicted in 3.090000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_162724.JPG: Predicted in 3.118000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_193708.JPG: Predicted in 3.126000 milli-seconds.
+fish: 29%
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_193948.JPG: Predicted in 3.137000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180718_100205.JPG: Predicted in 3.115000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_080207.JPG: Predicted in 3.140000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_152503.JPG: Predicted in 3.127000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_140201.JPG: Predicted in 3.146000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180719_105057.JPG: Predicted in 3.132000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_202744.JPG: Predicted in 3.169000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_151515.JPG: Predicted in 3.112000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180717_181319.JPG: Predicted in 3.147000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_201533.JPG: Predicted in 3.114000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_112527.JPG: Predicted in 3.164000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_172709.JPG: Predicted in 3.119000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_202752.JPG: Predicted in 3.143000 milli-seconds.
+Enter Image Path:  Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+data/test/one_valid_b/180720_070142.JPG: Predicted in 3.113000 milli-seconds.
+Enter Image Path: 
